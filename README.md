@@ -151,7 +151,7 @@ The project focuses on frontend performance by:
 
 GitHub: https://github.com/josephmagdy2001
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: *https://www.linkedin.com/in/josephmagdy*
 
 ---
 
